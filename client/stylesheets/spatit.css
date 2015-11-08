@@ -1,0 +1,25 @@
+footer{
+	background:#333;
+	color:#fff;
+	height:40px;
+	text-align: center;
+	padding-top:10px;
+	margin-top:40px;
+}
+
+.product-row {
+	margin: 25px 0;
+}
+
+.stars {
+	margin-bottom: 5px;
+	width: 120px;
+}
+
+.product-title a {
+	color: #202020;
+}
+
+.product-title a:hover {
+	text-decoration: none;
+}
